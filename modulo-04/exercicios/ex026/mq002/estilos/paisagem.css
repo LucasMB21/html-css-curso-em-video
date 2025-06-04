@@ -1,3 +1,8 @@
 @charset "UTF-8";
 
 /* Aparelhos deitado (ladscape) */
+
+body {
+    background: url(../imagens/cev-landscape.jpg);
+    background-position: left bottom;
+}
