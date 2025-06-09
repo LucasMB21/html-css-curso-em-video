@@ -145,6 +145,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | mq002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq002/index) |
 | mq003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq003/index) |
 | mq004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq004/index) |
+| mq005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq005/index) |
 
 ---
 
