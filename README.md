@@ -122,7 +122,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ### 🔹 Módulo 4
 
-| Exercício / Desafio | Link |
+| Exercício / Desafio / | Estudos| Link |
 |---------------------|------|
 | iframe001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
 | iframe002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe002) |
@@ -146,6 +146,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | mq003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq003/index) |
 | mq004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq004/index) |
 | mq005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq005/index) |
+| projeto-login | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/estudos/projeto-login/index) |
 
 ---
 
