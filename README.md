@@ -152,6 +152,12 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ---
 
+### 🔹 Módulo 5
+
+| Exercício / Desafio | Link |
+|---------------------|------|
+| flex001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex027/flex001/index) |
+
 > ⚠️ Lista em atualização conforme avanço do curso.
 
 ---
