@@ -47,7 +47,9 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ✅ Finalizei o **Módulo 3** 
 
-🔄 Em andamento: **Módulo 4**
+✅ Finalizei o **Módulo 4** 
+
+🔄 Em andamento: **Módulo 5**
 
 ## 📚 Exercícios por Módulo
 
