@@ -124,31 +124,31 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 
 ### 🔹 Módulo 4
 
-| Exercício / Desafio / | Estudos| Link |
-|---------------------|------|
-| iframe001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
-| iframe002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe002) |
-| iframe003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe003) |
-| iframe004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe004) |
-| iframe005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe005) |
-| iframe006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe006) |
-| **Desafio 015 - pjt-redes-sociais** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/desafios/d015/projeto-social/) |
-| form001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form001) |
-| form002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form002) |
-| form003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form003) |
-| form004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form004) |
-| form005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form005) |
-| form006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form006) |
-| form007 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form007) |
-| form008 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form008) |
-| form009 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form009) |
-| form010 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form010) |
-| mq001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq001/index) |
-| mq002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq002/index) |
-| mq003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq003/index) |
-| mq004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq004/index) |
-| mq005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq005/index) |
-| projeto-login | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/estudos/projeto-login/index) |
+| Exercício / Desafio / Estudos             | Link                                                                                       |
+|------------------------------------------|--------------------------------------------------------------------------------------------|
+| iframe001                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe001) |
+| iframe002                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe002) |
+| iframe003                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe003) |
+| iframe004                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe004) |
+| iframe005                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe005) |
+| iframe006                                | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex024/iframe006) |
+| **Desafio 015 - pjt-redes-sociais**      | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/desafios/d015/projeto-social/) |
+| form001                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form001) |
+| form002                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form002) |
+| form003                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form003) |
+| form004                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form004) |
+| form005                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form005) |
+| form006                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form006) |
+| form007                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form007) |
+| form008                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form008) |
+| form009                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form009) |
+| form010                                  | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex025/form010) |
+| mq001                                    | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq001/index) |
+| mq002                                    | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq002/index) |
+| mq003                                    | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq003/index) |
+| mq004                                    | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq004/index) |
+| mq005                                    | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/exercicios/ex026/mq005/index) |
+| projeto-login                             | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-04/estudos/projeto-login/index) |
 
 ---
 
