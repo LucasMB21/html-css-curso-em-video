@@ -15,22 +15,30 @@
             background-color: lightskyblue;
             border: 1px solid black;
             text-align: center;
-            flex-basis: 200px;
         }
 
         div#cxA {
-            flex-shrink: 0;
+            /* flex-shrink: 0;
             flex-grow: 1;
+            flex-basis: 200px; */
+
+            flex: 1 0 200px;
         }
 
         div#cxB {
-            flex-shrink: 1;
+            /* flex-shrink: 1;
             flex-grow: 1;
+            flex-basis: 150px; */
+
+            flex: 1 1 150px;
         }
 
         div#cxC {
-            flex-shrink: 8;
+            /* flex-shrink: 8;
             flex-grow: 1;
+            flex-basis: auto; */
+
+            flex: 1 8 auto;
         }
     </style>
 </head>
