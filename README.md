@@ -171,6 +171,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | flex014 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex027/flex014/index) |
 | grid001 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid001/index) |
 | grid002 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid002/index) |
+| grid003 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid003/index) |
 
 > ⚠️ Lista em atualização conforme avanço do curso.
 
