@@ -1,41 +1,52 @@
 # 👽 Olá, Mundo!
 
-## 🌐 Projetos de HTML5 e CSS3 — Curso em Vídeo
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a>
+</p>
 
-Este repositório contém todos os exercícios, desafios e projetos desenvolvidos por mim durante o curso de **HTML5 e CSS3** oferecido gratuitamente pelo [Curso em Vídeo](https://www.youtube.com/CursoemVideo) e ministrado pelo professor Gustavo Guanabara.
+<h1 align="center">Projetos do Curso de HTML5 e CSS3</h1>
 
-> 🎯 Meu objetivo com este repositório é praticar, acompanhar meu progresso e compartilhar os aprendizados de forma organizada.
+<p align="center">
+  <img alt="Curso em Vídeo" src="https://img.shields.io/badge/Curso_em_Vídeo-%234896D1?style=for-the-badge&logo=youtube">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Em_Andamento-green?style=for-the-badge">
+</p>
+
+Este repositório serve como meu diário de bordo para o curso de **HTML5 e CSS3** do [Curso em Vídeo](https://www.youtube.com/CursoemVideo), ministrado pelo professor Gustavo Guanabara. Aqui, você encontrará todos os exercícios, desafios e projetos que desenvolvi, documentando meu progresso e aprendizado com o objetivo de criar um portfólio prático e solidificar meus conhecimentos em desenvolvimento web.
 
 ---
 
-## 🧠 Resumo dos Aprendizados
+## 🛠️ Tecnologias e Conceitos Abordados
 
 Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abaixo estão os temas abordados até o momento:
 
 ### 📄 HTML5
 
 | Tópico                | O que foi aprendido                                                                 |
-|------------------------|-------------------------------------------------------------------------------------|
-| Estrutura básica       | Uso das tags `<html>`, `<head>`, `<body>` e organização do conteúdo da página.     |
-| Títulos e parágrafos   | Hierarquia com `<h1>` até `<h6>`, e escrita com `<p>`.                             |
-| Imagens e mídias       | Inserção de imagens com `<img>`, áudios e vídeos com `<audio>` e `<video>`.       |
-| Emojis e símbolos      | Uso de códigos especiais (`&copy;`, `&reg;`, etc.) e emojis.                      |
-| Links e navegação      | Criação de links internos e externos com `<a>`.                                   |
-| Listas                 | Listas ordenadas `<ol>`, não ordenadas `<ul>` e listas de definição `<dl>`.       |
-| **Tabelas**            | Criação de tabelas com `<table>`, cabeçalho `<thead>`, corpo `<tbody>` e rodapé `<tfoot>`. Uso de `<tr>`, `<th>` e `<td>` para organizar os dados. |
-| Iframes                | Inserção de conteúdos externos (como vídeos do YouTube ou mapas do Google).       |
-| Formulários (inicial)  | Criação de formulários com `<form>`, campos com `<input>`, `<textarea>`, `<button>`. |
+|-----------------------|-------------------------------------------------------------------------------------|
+| Estrutura básica      | Uso das tags `<html>`, `<head>`, `<body>` e organização do conteúdo da página.     |
+| **HTML Semântico**    | Uso de `<header>`, `<nav>`, `<main>`, `<article>`, `<aside>`, `<footer>` para estruturar o conteúdo. |
+| Títulos e parágrafos  | Hierarquia com `<h1>` até `<h6>`, e escrita com `<p>`.                             |
+| Imagens e mídias      | Inserção de imagens com `<img>`, áudios e vídeos com `<audio>` e `<video>`.       |
+| Links e navegação     | Criação de links internos, externos e âncoras com `<a>`.                            |
+| Listas                | Listas ordenadas `<ol>`, não ordenadas `<ul>` e listas de definição `<dl>`.       |
+| Tabelas               | Criação e mesclagem de células com `<table>`, `colspan` e `rowspan`.                |
+| Iframes               | Inserção de conteúdos externos (como vídeos do YouTube ou mapas do Google).       |
+| Formulários           | Criação de formulários com `<form>`, `<input>`, `<select>`, `<textarea>`, `<output>`. |
 
 ### 🎨 CSS3
 
-| Tópico              | O que foi aprendido                                                              |
-|---------------------|----------------------------------------------------------------------------------|
-| Introdução ao CSS   | Aplicação de estilos via `style`, `<style>`, e arquivos `.css`.                 |
-| Seletores           | Seletores por tag, classe (`.classe`), id (`#id`) e agrupamentos.               |
-| Cores e fontes      | Definição de cores (`hex`, `rgb`, `nomes`) e estilização de textos e fontes.    |
-| Box Model           | Conceito de conteúdo, padding, borda e margem.                                  |
-| Layout e posicionamento | Uso de `display`, `position`, `float`, `clear`, alinhamento e centralização.  |
-| Responsividade      | Introdução ao uso de `media queries` para diferentes tamanhos de tela.          |
+| Tópico                     | O que foi aprendido                                                              |
+|----------------------------|----------------------------------------------------------------------------------|
+| Seletores                  | Seletores por tag, classe, id, pseudo-classes (`:hover`) e pseudo-elementos.      |
+| Cores e fontes             | Cores (`hex`, `rgb`), fontes externas (`@font-face`) e tipografia web.             |
+| **Gradientes e Sombras**   | Uso de `linear-gradient`, `box-shadow` e `text-shadow` para efeitos visuais.       |
+| Box Model                  | Conceito de conteúdo, padding, borda e margem.                                   |
+| **Fundos Avançados**       | Imagens de fundo, posicionamento, tamanho e efeito parallax (`background-attachment`). |
+| **Variáveis CSS**          | Definição e uso de variáveis com `:root` e `var()` para um código mais manutenível. |
+| **Flexbox**                | Criação de layouts flexíveis e alinhamento de itens em um contêiner.             |
+| **CSS Grid**               | Criação de layouts complexos baseados em grid de duas dimensões.                 |
+| **Responsividade**         | Uso de Media Queries (`@media`) e a abordagem **Mobile First** para adaptação de tela. |
 
 ---
 
