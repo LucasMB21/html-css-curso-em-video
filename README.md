@@ -175,6 +175,7 @@ Durante o curso, explorei os principais fundamentos do desenvolvimento web. Abai
 | grid004 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid004/index) |
 | grid005 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid005/index) |
 | grid006 | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/exercicios/ex028/grid006/index) |
+| **Desafio 017 - Grid-Layout** | [Acessar](https://lucasmb21.github.io/html-css-curso-em-video/modulo-05/desafios/d017/index) |
 
 > ⚠️ Lista em atualização conforme avanço do curso.
 
